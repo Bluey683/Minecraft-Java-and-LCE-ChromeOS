@@ -38,3 +38,7 @@ wget https://cdn.fastly.steamstatic.com/client/installer/steam.deb
 sudo apt install ./steam.deb
 
 Thank You!
+
+# Credits
+
+by Onyx: Make Install.txt
